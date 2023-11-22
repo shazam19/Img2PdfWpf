@@ -1,4 +1,4 @@
-'# Img2PdfWpf' 
+# Img2PdfWpf
 
 Creates a PDF from a source folder that has the images. 
 
